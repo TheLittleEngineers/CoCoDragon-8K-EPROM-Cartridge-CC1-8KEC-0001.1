@@ -1,0 +1,9 @@
+TheLittleEngineers_org-CoCoDragon-8K-EPROM-Cartridge/CC1-8KEC-0001.1/
+
+Part Value              Device             Package            Description     
+C1   .47uF              C2.5/4             C2.5-4             CAPACITOR       
+CN1  COCO_PROGRAM_PAK   COCO_PROGRAM_PAK   COCO_EDGECARD40    CoCo Program Pak
+IC1  2764               2764               DIL28              MEMORY          
+JP1  Auto-Start         JP1E               JP1                JUMPER          
+U$2  SPARKFUN_STAND-OFF SPARKFUN_STAND-OFF SPARKFUN_STAND-OFF Stand Off       
+U$3  SPARKFUN_STAND-OFF SPARKFUN_STAND-OFF SPARKFUN_STAND-OFF Stand Off       

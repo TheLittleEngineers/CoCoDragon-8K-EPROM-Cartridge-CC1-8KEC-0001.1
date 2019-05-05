@@ -1,0 +1,8 @@
+Partlist exported from C:/Users/TLE/OneDrive/TheLittleEngineers_org-CoCoDragon-8K-EPROM-Cartridge/CC1-8KEC-0001.1/8KEPROM_Cartridge.sch at 5/5/2019 7:02:18 AM
+
+Qty Value              Device             Parts   
+1   .47uF              C2.5/4             C1      
+1   2764               2764               IC1     
+1   Auto-Start         JP1E               JP1     
+1   COCO_PROGRAM_PAK   COCO_PROGRAM_PAK   CN1     
+2   SPARKFUN_STAND-OFF SPARKFUN_STAND-OFF U$2, U$3
